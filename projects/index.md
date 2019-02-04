@@ -1,4 +1,3 @@
-# Projects
 *The topics below will become available as soon as their articles are ready. <br>
 In the meantime, feel free to ask me about them here: <span style="white-space:nowrap">lacerda (at) cs.toronto.edu</span>*
 
