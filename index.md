@@ -1,4 +1,4 @@
-<p><img width=300p src="docs/img/profile_2019.jpg"></p>
+<p><img width="300p" src="docs/img/profile_2019.jpg"></p>
 
 In 2014 I obtained a BSc. in Economics from Universidade Presbiteriana Mackenzie, Brazil and am currently an MSc. in Applied Computing student at the University of Toronto.
 
