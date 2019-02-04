@@ -26,12 +26,13 @@ layout: compress
                     {% endif %}
                 </div>
                     {{ content }}
-                    {% if page.project %}
-                    <a class="btn zoombtn" href="{{site.url}}/projects/">
-                        {% else %}
-                    <a class="btn zoombtn" href="{{site.url}}/posts/">
-                        {% endif %}
-                        <i class="fa fa-chevron-left"></i>
+                    <!--{% if page.project %}-->
+                    <!--<a class="btn zoombtn" href="{{site.url}}/projects/">-->
+                    <!--{% else %}-->
+                    <!--<a class="btn zoombtn" href="{{site.url}}/posts/">-->
+                    <!--{% endif %}-->
+                    <a class="btn zoombtn" href="..">
+                    <i class="fa fa-chevron-left">Back</i>
                     </a>
                     <div class="entry-meta">
                             {% include meta.html %}
