@@ -9,4 +9,4 @@ My [experience](experience.md) in industry (2012-2016) involves Finance and Oper
 I suggest taking a look at my [projects](projects.md) page where I discuss these and other projects in detail.
 
 Contact me at <u><i><span style="white-space:nowrap">lacerda (at) cs.toronto.edu</span>
-[View my resumé](Rafael Lacerda CV 2017.pdf)
+[View my resumé]("docs/Rafael Lacerda CV 2017.pdf")
