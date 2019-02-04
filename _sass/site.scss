@@ -70,8 +70,8 @@ body {
 	align-items: center;
 }
 .container {
-	width: 36rem;
-	max-width: 550px;
+	width: 55rem;
+	max-width: 750px;
 	padding-right: 15px;
 	padding-left: 15px;
 	@include center-block();
@@ -102,7 +102,7 @@ body {
 }
 .wrapper {
 	width: 75%;
-	max-width: 850px;
+	max-width: 1000px;
 	margin: 4rem auto;
 	background: $white;
 	color: $color_tuatara;
