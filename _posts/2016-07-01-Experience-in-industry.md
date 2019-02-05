@@ -1,3 +1,10 @@
+---
+layout: page
+title: Experience in industry
+tags: [about, rafael]
+date: 2016-07-01
+comments: false
+---
 # Experience
 
 ## OR Imobiliaria

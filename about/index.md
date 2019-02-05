@@ -1,3 +1,11 @@
+---
+layout: page
+title: Rafael Lacerda
+tags: [about, rafael]
+date: 2016-07-01
+comments: false
+---
+
 Data scientist focused on Natural Language Processing.
 
 I have carried out research, development and deployment of ML models and NLP, as well as general devops required to run a fast, secure and reliable platform.
