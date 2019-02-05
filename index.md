@@ -1,11 +1,11 @@
-In 2014 I obtained a BSc. in Economics from Universidade Presbiteriana Mackenzie, Brazil and am currently an MSc. in Applied Computing student at the University of Toronto.
+Data scientist focused on Natural Language Processing.
 
-My research interests include Data Science, Machine Learning, Natural Language Processing and Economics.<br> I intend to reconcile the relationship between Economics and Computer Science as complementary disciplines.
+I have carried out research, development and deployment of ML models and NLP, as well as general devops required to run a fast, secure and reliable platform.
 
-My [experience](experience/) in industry (2012-2016) involves Finance and Operations Management, where I have developed financial risk and budget models, built a customer service department and its metrics from the ground up and carried out customer behavior experiments for revenue and efficiency.
+Broad research areas I'm interested in and have experience are Deep Learning, Natural Language Processing and Information Retrieval. Now if you're really after what intrigues me, that's latent variable models and model interpretability.
 
-I suggest taking a look at my [projects](projects) page where I discuss these and other projects in detail.
+In another life I was an economist involved in finance, real estate and productivity management.
 
-*Contact me at <span style="white-space:nowrap">lacerda (at) cs.toronto.edu</span>*
-  
-[View my resumé](docs/Rafael Lacerda CV 2017.pdf){: .btn}
+I currently work at ROSS Intelligence as a Machine Intelligence Engineer. 
+
+*Contact me at <span style="white-space:nowrap">lacerda (at) cs.toronto.edu</span>*    [View my resumé](docs/Rafael Lacerda CV 2017.pdf){: .btn}
