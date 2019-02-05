@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Experience in industry"
+permalink: /experience/
+---
 # Experience
 
 ## OR Imobiliaria
