@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://lacerda.ml/2019/02/07/welcome-to-jekyll/</loc>
-<lastmod>2019-02-07T00:31:57+00:00</lastmod>
+<loc>https://lacerda.ml/2019-02-06-welcome-to-jekyll/</loc>
 </url>
 <url>
 <loc>https://lacerda.ml/404/</loc>
@@ -26,9 +25,7 @@
 <loc>https://lacerda.ml/setup/</loc>
 </url>
 <url>
-<loc>https://lacerda.ml/categories/jekyll/</loc>
-</url>
-<url>
-<loc>https://lacerda.ml/categories/update/</loc>
+<loc>https://lacerda.ml/docs/Rafael%20Lacerda%20CV%202017.pdf</loc>
+<lastmod>2019-02-07T01:30:56+00:00</lastmod>
 </url>
 </urlset>
