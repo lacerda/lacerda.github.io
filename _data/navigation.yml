@@ -3,7 +3,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Archives"
-    url: /archives/
-  - title: "GitHub"
-    url: https://github.com/yous/whiteglass
+  - title: "Experience"
+    url: /experience/
+  - title: "Projects"
+    url: /projects/
