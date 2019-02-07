@@ -3,7 +3,7 @@ layout: page
 title: ""
 permalink: /
 ---
-<img src=../img/profile.jpg width="200p" alt="Niagara Falls summer 2018">
+<img src="../img/profile.jpg" width="200p" alt="Niagara Falls summer 2018">
 
 Data scientist focused on Natural Language Processing.
 
