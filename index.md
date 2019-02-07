@@ -1,9 +1,9 @@
 ---
-layout: home
+layout: page
 title: ""
-permalink: /
+order: 1
 ---
-<img src="../img/profile.jpg" width="200p" alt="Niagara Falls summer 2018">
+<img src="../img/profile.jpg" align="left" width="200p" alt="Niagara Falls summer 2018">
 
 Hi! I'm Rafael. I'm a data scientist focused on Natural Language Processing. I graduated from UofT with an MSc in Applied Computing in 2017.
 
