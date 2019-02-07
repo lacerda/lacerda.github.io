@@ -1,1 +1,1 @@
-Sitemap: https://lacerda.ml/sitemap.xml
+Sitemap: /sitemap.xml
