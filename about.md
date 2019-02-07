@@ -3,7 +3,7 @@ layout: page
 title: "About"
 permalink: /about/
 ---
-<img src="../img/profile.jpg" style="float:left; margin: 5px 15px;" width="200p">
+<img src="../img/profile.jpg" style="float:left; margin: 5px 15px;" width="200p" alt="Niagara Falls summer 2018">
 Hi! I'm Rafael. I'm a data scientist focused on Natural Language Processing. I graduated from UofT with an MSc in Applied Computing in 2017.
 I have carried out research, development and deployment of ML models and NLP, as well as general devops required to run a fast, secure and reliable platform.
 
