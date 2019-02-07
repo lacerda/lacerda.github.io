@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Experience in industry"
 permalink: /experience/
 ---
