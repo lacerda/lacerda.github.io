@@ -4,6 +4,7 @@ title: "About"
 permalink: /about/
 ---
 !["Niagara Falls summer 2018"](../img/profile.jpg width="200p")
+
 Data scientist focused on Natural Language Processing.
 
 I have carried out research, development and deployment of ML models and NLP, as well as general devops required to run a fast, secure and reliable platform.
