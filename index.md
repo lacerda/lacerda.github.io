@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: home
 title: ""
-order: 1
 ---
 <img src="../img/profile.jpg" align="left" width="200p" alt="Niagara Falls summer 2018">
 
