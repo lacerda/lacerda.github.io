@@ -13,4 +13,6 @@ In another life I was an economist involved in finance, real estate and producti
 
 I currently work at ROSS Intelligence as a Machine Intelligence Engineer. 
 
-*Contact me at <span style="white-space:nowrap">lacerda (at) cs.toronto.edu</span>*    [View my resumé](../docs/Rafael%20Lacerda%20CV%202017.pdf){: .btn}
+*Contact me at <span style="white-space:nowrap">lacerda (at) cs.toronto.edu</span>*
+
+[View my resumé](../docs/Rafael%20Lacerda%20CV%202017.pdf)
