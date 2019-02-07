@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "About"
-permalink: /about/
+title: ""
+permalink: /
 ---
 <img src=../img/profile.jpg width="200p" alt="Niagara Falls summer 2018">
 
