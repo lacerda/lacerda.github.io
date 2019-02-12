@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <generator uri="http://jekyllrb.com" version="3.8.5">Jekyll</generator>
   
   
   <link href="https://lacerda.ml/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="https://lacerda.ml/" rel="alternate" type="text/html" />
-  <updated>2019-02-12T02:25:58+00:00</updated>
+  <link href="https://lacerda.ml/" rel="alternate" type="text/html" hreflang="en" />
+  <updated>2019-02-11T21:36:49-05:00</updated>
   <id>https://lacerda.ml//</id>
 
   
@@ -16,6 +16,12 @@
     <subtitle>Data Science, Natural Language, Research.</subtitle>
   
 
+  
+    <author>
+        <name>Rafael Lacerda</name>
+      
+      
+    </author>
   
 
   
