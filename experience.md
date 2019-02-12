@@ -4,7 +4,7 @@ title: "Experience in industry"
 permalink: /experience/
 ---
 
-## OR Imobiliaria
+## OR Empreendimentos, *Real Estate Investment*
 
 OR is one of the largest real estate developers in Brazil in the residential, business, commercial and tourism markets, with over 6 billion US$ in assets on the market between 2008 and 2016.
 
@@ -17,7 +17,7 @@ OR is one of the largest real estate developers in Brazil in the residential, bu
 - Arbitrage with excess funds and the cost of cash.
 - Organized monthly department meetings to evaluate company metrics; politics and macroeconomics and their potential effects on the real estate market; new monthly objectives.
 
-## Zocprint, **Rocket Internet venture**
+## Zocprint, *Rocket Internet Venture*
 
 Zocprint is the #1 e-commerce of customizable printed marketing materials and gifts in Brazil.
 
@@ -28,7 +28,7 @@ Zocprint is the #1 e-commerce of customizable printed marketing materials and gi
 - Closed the quality feedback loop to the Operations department by automatic summarization of product issues.
 - Browsing pattern analysis to reduce demand for customer service.
 
-## Kondor Invest
+## Kondor Invest, *Hedge Fund*
 
 Kondor is an asset management firm with a rigorous proprietary risk management solution.
 
