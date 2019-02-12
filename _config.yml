@@ -14,11 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Rafael Lacerda
+author: Rafael Lacerda
 email: rafaelplmelo@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Data Science, Natural Language, Research.
-baseurl: "" # the subpath of your site, e.g. /blog
+description: "Data Science, Natural Language, Research."
+baseurl: "/"
 url: "https://lacerda.ml" # the base hostname & protocol for your site, e.g. http://example.com
+timezone: "America/Toronto"
+lang: en
+comments: false
 
 # Build settings
 markdown: kramdown
