@@ -14,6 +14,6 @@ I currently work at [ROSS Intelligence][ross-url] as a Machine Intelligence Engi
 
 *Contact me at <span style="white-space:nowrap">lacerda (at) cs.toronto.edu</span>*
 
-[View my resumé](../docs/Rafael%20Lacerda%20CV%202017.pdf)
+[View my resumé](../docs/Rafael%20Lacerda%20CV%202019.pdf)
 
 [ross-url]: https://www.rossintelligence.com
