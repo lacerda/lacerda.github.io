@@ -10,8 +10,6 @@ Broad research areas I'm interested in and have experience are Deep Learning, Na
 
 In another life I was an economist involved in finance, real estate and productivity management. I think both CS and Economics have a lot to benefit from each other and I'm always happy to talk about this.
 
-I currently work at [ROSS Intelligence][ross-url] as a Machine Intelligence Engineer. 
-
 *Contact me at <span style="white-space:nowrap">lacerda (at) cs.toronto.edu</span>*
 
 [View my resumé](../docs/Rafael%20Lacerda%20CV.pdf)
