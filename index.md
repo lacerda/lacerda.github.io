@@ -2,7 +2,7 @@
 layout: home
 title: ""
 ---
-<img src="../img/profile.jpg" style="float:left; margin: 5px 15px;" width="200p" alt="Niagara Falls summer 2018">
+<img src="../img/aria2017.jpg" style="float:left; margin: 5px 15px;" width="200p" alt="U of Toronto CS ARIA 2017">
 Hi! I'm Rafael. I'm a data scientist focused on Natural Language Processing. I graduated from the University of Toronto with a MSc in Applied Computing in 2017.
 I have carried out research, development and deployment of ML models and NLP, as well as general devops required to run a fast, secure and reliable platform.
 
@@ -13,5 +13,3 @@ In another life I was an economist involved in finance, real estate and producti
 *Contact me at <span style="white-space:nowrap">lacerda (at) cs.toronto.edu</span>*
 
 [View my resumé](../docs/Rafael%20Lacerda%20CV.pdf)
-
-[ross-url]: https://www.rossintelligence.com
