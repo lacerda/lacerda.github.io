@@ -2,7 +2,7 @@
 layout: home
 title: ""
 ---
-<img src="../img/profile.jpg" style="text-align:center;" width="300p" alt="U of Toronto CS ARIA 2017"><br>
+<img src="../img/profile.jpg" style="text-align:center;" width="200p" alt="U of Toronto CS ARIA 2017"><br>
 
 Hi! I'm Rafael. I'm a data scientist and machine learning engineer focused on Natural Language Processing.
 
