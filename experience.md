@@ -6,7 +6,7 @@ permalink: /experience/
 
 ## Scribd, *The world's largest digital library*
 
-Scribd is digital reading subscription service, containing over 1M eBooks, audiobooks and magazines.
+Scribd is a digital reading subscription service, containing over 1M eBooks, audiobooks and magazines.
 
 ### Role: Applied Research Data Scientist (2019 — *present*)
 
