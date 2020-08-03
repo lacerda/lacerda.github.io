@@ -10,7 +10,13 @@ Scribd is a digital reading subscription service, containing over 1M eBooks, aud
 
 ### Role: Applied Research Data Scientist (2019 — *present*)
 
-- Applied research in natural language processing and deep learning.
+Applied research in natural language processing and deep learning.
+- Named Entity Detection and Entity Linking
+- Fine tuning language models for sentence classification
+- Topic analysis
+- Long form document classification
+- Time series clustering
+- Developed graph embedding models
 
 ***
 
