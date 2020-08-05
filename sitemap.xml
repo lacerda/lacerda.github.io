@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://lacerda.ml/2019-02-06-welcome-to-jekyll/</loc>
-</url>
-<url>
 <loc>https://lacerda.ml/404/</loc>
 </url>
 <url>
@@ -29,6 +26,6 @@
 </url>
 <url>
 <loc>https://lacerda.ml/docs/Rafael_Lacerda_CV.pdf</loc>
-<lastmod>2020-08-04T22:33:39-04:00</lastmod>
+<lastmod>2020-08-04T22:35:13-04:00</lastmod>
 </url>
 </urlset>
