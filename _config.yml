@@ -15,10 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: Rafael Lacerda
 author: Rafael Lacerda
-email: rafaelplmelo@gmail.com
+email: rafael@lacerda.ch
 description: "Data Science, Natural Language, Research."
 baseurl: "/"
-url: "https://lacerda.ml" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.lacerda.ch" # the base hostname & protocol for your site, e.g. http://example.com
 timezone: "America/Toronto"
 lang: en
 comments: false
